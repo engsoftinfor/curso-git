@@ -20,6 +20,7 @@ namespace WindowsFormsGit
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Ola mundo!");
+            MessageBox.Show("Bom dia!");
         }
     }
 }
